@@ -1,0 +1,16 @@
+C:\Users\HP\Desktop\nagarro\codes\bin\Debug\net5.0\codes.exe
+C:\Users\HP\Desktop\nagarro\codes\bin\Debug\net5.0\codes.deps.json
+C:\Users\HP\Desktop\nagarro\codes\bin\Debug\net5.0\codes.runtimeconfig.json
+C:\Users\HP\Desktop\nagarro\codes\bin\Debug\net5.0\codes.runtimeconfig.dev.json
+C:\Users\HP\Desktop\nagarro\codes\bin\Debug\net5.0\codes.dll
+C:\Users\HP\Desktop\nagarro\codes\bin\Debug\net5.0\ref\codes.dll
+C:\Users\HP\Desktop\nagarro\codes\bin\Debug\net5.0\codes.pdb
+C:\Users\HP\Desktop\nagarro\codes\obj\Debug\net5.0\codes.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\nagarro\codes\obj\Debug\net5.0\codes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\nagarro\codes\obj\Debug\net5.0\codes.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\nagarro\codes\obj\Debug\net5.0\codes.AssemblyInfo.cs
+C:\Users\HP\Desktop\nagarro\codes\obj\Debug\net5.0\codes.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\nagarro\codes\obj\Debug\net5.0\codes.dll
+C:\Users\HP\Desktop\nagarro\codes\obj\Debug\net5.0\ref\codes.dll
+C:\Users\HP\Desktop\nagarro\codes\obj\Debug\net5.0\codes.pdb
+C:\Users\HP\Desktop\nagarro\codes\obj\Debug\net5.0\codes.genruntimeconfig.cache

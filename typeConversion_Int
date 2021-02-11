@@ -1,0 +1,22 @@
+using System;
+
+namespace Day1
+{
+    class typeConversion_Int
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("enter a number:");
+            String s=Console.ReadLine();
+            //string by default
+            Console.WriteLine("you entered " + s);
+            
+            int FirstInt=Int16.Parse(s);
+            int SecInt = Int32.Parse(s);
+
+            long ThirdInt = Int64.Parse(s);
+            Console.WriteLine("SUM=" +( FirstInt+SecInt+ThirdInt));
+
+        }
+    }
+}
